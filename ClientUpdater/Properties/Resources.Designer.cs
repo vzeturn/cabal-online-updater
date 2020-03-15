@@ -143,6 +143,16 @@ namespace ClientUpdater.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap IT_solutions_smarter_1 {
+            get {
+                object obj = ResourceManager.GetObject("IT.solutions.smarter-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap mini {
             get {
                 object obj = ResourceManager.GetObject("mini", resourceCulture);
@@ -176,6 +186,16 @@ namespace ClientUpdater.Properties {
         internal static System.Drawing.Bitmap sethov {
             get {
                 object obj = ResourceManager.GetObject("sethov", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Solution_770x285 {
+            get {
+                object obj = ResourceManager.GetObject("Solution-770x285", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

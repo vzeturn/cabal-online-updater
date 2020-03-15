@@ -136,6 +136,8 @@
     <Content Include="favicon.ico" />
     <Content Include="Resources\full-check-disabled.png" />
     <Content Include="Resources\full-check-enabled.png" />
+    <None Include="Resources\Solution-770x285.jpg" />
+    <None Include="Resources\IT.solutions.smarter-1.jpg" />
     <Content Include="Resources\stop-disabled.png" />
     <Content Include="Resources\stop-enabled.png" />
     <None Include="Resources\File.png" />
